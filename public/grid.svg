@@ -1,0 +1,21 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<filter id="blurEdges" x="0" y="0" width="200" height="200" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="10" result="effect1_foregroundBlur"/>
+</filter>
+</defs>
+<g filter="url(#blurEdges)">
+<path d="M0 0H200V200H0V0Z" fill="#0E1428"/>
+<path d="M0.5 0.5H199.5V199.5H0.5V0.5Z" stroke="#21294A"/>
+<path d="M39 0H39V200" stroke="#21294A"/>
+<path d="M79 0H79V200" stroke="#21294A"/>
+<path d="M119 0H119V200" stroke="#21294A"/>
+<path d="M159 0H159V200" stroke="#21294A"/>
+<path d="M0 39H200V39H0V39Z" stroke="#21294A"/>
+<path d="M0 79H200V79H0V79Z" stroke="#21294A"/>
+<path d="M0 119H200V119H0V119Z" stroke="#21294A"/>
+<path d="M0 159H200V159H0V159Z" stroke="#21294A"/>
+</g>
+</svg>
